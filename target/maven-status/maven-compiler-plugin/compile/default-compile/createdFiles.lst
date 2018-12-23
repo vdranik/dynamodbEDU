@@ -1,0 +1,7 @@
+com\vdranik\dynamodb\domain\Comment.class
+com\vdranik\dynamodb\dao\CommentDao.class
+com\vdranik\dynamodb\Main.class
+com\vdranik\dynamodb\domain\Item.class
+com\vdranik\dynamodb\Utils.class
+com\vdranik\dynamodb\dao\ItemDao.class
+com\vdranik\dynamodb\LocalDateTimeConverter.class
